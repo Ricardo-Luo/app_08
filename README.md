@@ -1,3 +1,3 @@
 # app_08
 
-hello-python
+hello-world
